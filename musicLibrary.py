@@ -1,0 +1,15 @@
+music= {
+    "4AM" : "https://youtu.be/UcU-yRIZ5DE?si=neG1tC5-iNtpM2lN",
+    "openletter" : "https://youtu.be/_X2WJv5chJo",
+    "secrets" : "https://youtu.be/PzU2ru1kcJw?si=Fv2vGT1fPuKwS5Cy",
+    "brother" : "https://youtu.be/bRnU_TfsJlQ?si=YJLGaookgLb2puwi",
+    "showtime" : "https://youtu.be/pCDVqHGcb4A?si=6tjvUXMjNfL7P7nT",
+    "bandish" : "https://youtu.be/BhZnk8egLI0?si=2W_6Ab3tghsN4W2b",
+    "raabta" : "https://youtu.be/ljllVH71Cgo?si=Nm-cNGeSVTagO_IR",
+    "desperation" : "https://youtu.be/n_NC-ZmQC50?si=sVCusoH0xJpNODfE",
+    "ektarfa" : "https://youtu.be/4IAnSQKUC5Q?si=hMtA3y3tPEKF_P9z",
+    "rollercoster" : "https://youtu.be/WUoaX9Tt4yo?si=eh9XERBjHYzQAE6f",
+    "hisaab" : "https://youtu.be/-dhtcZFY_7g?si=8R8SpUhDS0xzZ73k",
+    "lajawab" : "https://youtu.be/5_KrFEfFwZ8?si=7MpTwZaLW6KtTf_-",
+    "makaar" : "https://youtu.be/MOnpcmAHNp4?si=CiLp7DRoKtP-p7q5",
+}
